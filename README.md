@@ -1,5 +1,5 @@
 <div align="center">
-  ![illustration](https://th.bing.com/th/id/OIP.J2-OWzZbMLGSrVWZ-b3qCwHaFj?w=227&h=180&c=7&r=0&o=5&pid=1.7)
+  <img src="https://user-images.githubusercontent.com/95428499/230508324-574d81c2-5b18-48d1-bd33-0d6c1c9d610f.jpeg" width="400" height="400">
 </div>
   
 ### Hi there 👋
