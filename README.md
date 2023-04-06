@@ -1,5 +1,5 @@
 <div align="center">
-  ![_81ad6c6d-f13e-4d8e-afc8-6b0737fb31b5](https://user-images.githubusercontent.com/95428499/230507053-a78e0343-a5d9-49a5-8a37-1d4f07b02cd9.jpeg)
+  ![illustration](https://user-images.githubusercontent.com/95428499/230507053-a78e0343-a5d9-49a5-8a37-1d4f07b02cd9.jpeg "illustration")
 </div>
   
 ### Hi there 👋
