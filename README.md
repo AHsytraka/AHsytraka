@@ -1,5 +1,5 @@
 <div align="center">
-  ![illustration](https://user-images.githubusercontent.com/95428499/230507053-a78e0343-a5d9-49a5-8a37-1d4f07b02cd9.jpeg "illustration")
+  ![illustration](https://www.bing.com/images/create/laptop-on-a-desk-that-is-next-to-a-open-window2c-th/642f4a813c0b49b1b3b5b394c32c66b4?id=CCzeUDwThUV0G2DIqb8QwQ%3d%3d&view=detailv2&idpp=genimg)
 </div>
   
 ### Hi there 👋
