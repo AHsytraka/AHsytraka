@@ -9,8 +9,7 @@
 
 - 🙂 I'm **Sitraka**, a computer science student.
 - 💻 I'm interested in Web, Mobile and Game development.
-- 📑 I’m currently learning some of the **.NET** technologies.
-- 🤝 I’m looking to collaborate on anything that can improve my skills.
+
 
 
 
