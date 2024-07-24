@@ -4,6 +4,7 @@
     <img src='https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=DFDFDF&center=true&vCenter=true&width=500&height=115&lines=Software+Engineering+Student;Web%2C+Mobile+and+Game+Development+enthusiast+'>
 </p>
 
+---
 
 <p align="center" style="font-family: 'Lexend Deca'; font-size: 25px"> <strong>Reach me through</strong></p>
 
@@ -13,6 +14,7 @@
     <img src="https://img.shields.io/badge/ahsytraka-black?style=for-the-badge&logo=Discord&logoColor=white&color=black" alt="gmail"/>
 </p>
 
+---
 
 <p align="center" style="font-family: 'Lexend Deca' ; font-size: 25px"><strong>My tech stack</strong></p>
 
@@ -63,3 +65,5 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 </div>
+
+---
