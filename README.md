@@ -4,9 +4,8 @@
     <img src='https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=DFDFDF&center=true&vCenter=true&width=500&height=115&lines=Software+Engineering+Student;Web%2C+Mobile+and+Game+Development+enthusiast+'>
 </p>
 
-___
 
-## <p align="center" style="font-family: 'Lexend Deca'">Reach me through</p>
+# <p align="center" style="font-family: 'Lexend Deca'">Reach me through</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sitraka-andriantsiva-5155b3245"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=white&color=lightgrey" alt="linkedin"/></a>
@@ -14,9 +13,8 @@ ___
     <img src="https://img.shields.io/badge/ahsytraka-black?style=for-the-badge&logo=Discord&logoColor=white&color=black" alt="gmail"/>
 </p>
 
-___
 
-## <p align="center" style="font-family: 'Lexend Deca'">My tech stack</p>
+# <p align="center" style="font-family: 'Lexend Deca'">My tech stack</p>
 
 <div align="center" >
 
