@@ -1,4 +1,6 @@
-# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>
+[//]: # (# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hey%20👋,%20I'm%20Sitraka">
 
 <p align="center" style="background: linear-gradient(0deg, rgba(50,50,50,1) 0%, rgba(67,67,67,1) 100%);">
     <img src='https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=DFDFDF&center=true&vCenter=true&width=500&height=115&lines=Software+Engineering+Student;Web%2C+Mobile+and+Game+Development+enthusiast+'>
