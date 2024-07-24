@@ -1,12 +1,10 @@
-<p align="center" style="font-family: 'Lexend Deca'; font-size: 25px"> <strong> Hey 👋, I'm Sitraka</strong></p>
+# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>
 
 <p align="center" style="background: linear-gradient(0deg, rgba(50,50,50,1) 0%, rgba(67,67,67,1) 100%);">
     <img src='https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=DFDFDF&center=true&vCenter=true&width=500&height=115&lines=Software+Engineering+Student;Web%2C+Mobile+and+Game+Development+enthusiast+'>
 </p>
 
----
-
-<p align="center" style="font-family: 'Lexend Deca'; font-size: 25px"> <strong>Reach me through</strong></p>
+# <p align="center" style="font-family: 'Lexend Deca';"> <strong>Reach me through</strong></p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sitraka-andriantsiva-5155b3245"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=white&color=lightgrey" alt="linkedin"/></a>
@@ -14,9 +12,8 @@
     <img src="https://img.shields.io/badge/ahsytraka-black?style=for-the-badge&logo=Discord&logoColor=white&color=black" alt="gmail"/>
 </p>
 
----
 
-<p align="center" style="font-family: 'Lexend Deca' ; font-size: 25px"><strong>My tech stack</strong></p>
+# <p align="center" style="font-family: 'Lexend Deca' ;"><strong>My tech stack</strong></p>
 
 <div align="center" >
 
