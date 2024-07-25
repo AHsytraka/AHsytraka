@@ -82,3 +82,14 @@
 ![AHsytraka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHsytraka&theme=dark&show_icons=true&hide_border=true&layout=donut)
 
 </div>
+
+<br/>
+
+# <p align="center" style="font-family: 'Lexend Deca';"> <strong>Enjoy :)</strong></p>
+
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gpnaf2dvw3aptqdqrkqkbdmhdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4d4d4d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
