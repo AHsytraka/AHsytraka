@@ -1,6 +1,8 @@
-[//]: # (# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>)
+# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:EEEEEE,30:686D76,70:373A40&text=Hey,%20I'm%20Sitraka&fontColor=DFDFDF&reversal=false&textBg=false">
+[//]: # (<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:EEEEEE,30:686D76,70:373A40&text=Hey,%20I'm%20Sitraka&fontColor=DFDFDF&reversal=false&textBg=false">)
+
+<br/>
 
 <p align="center">
     <img src='https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=DFDFDF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Web%2C+Mobile+and+Game+Development+enthusiast+'>
@@ -64,4 +66,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+</div>
+
+<div align="center">
+
+![AHsytraka's Stats](https://github-readme-stats.vercel.app/api?username=AHsytraka&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![AHsytraka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AHsytraka&theme=dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHsytraka&layout=donut&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
