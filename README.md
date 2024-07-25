@@ -79,5 +79,6 @@
 
 ![AHsytraka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AHsytraka&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHsytraka&layout=donut&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![AHsytraka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHsytraka&theme=dark&show_icons=true&hide_border=true&layout=donut)
+
 </div>
