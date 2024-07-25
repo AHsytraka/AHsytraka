@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/ahsytraka-black?style=for-the-badge&logo=Discord&logoColor=white&color=black" alt="gmail"/>
 </p>
 
+<br/>
 
 # <p align="center" style="font-family: 'Lexend Deca' ;"><strong>My tech stack</strong></p>
 
