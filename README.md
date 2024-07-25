@@ -1,6 +1,7 @@
-# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>
-
+[//]: # (# <p align="center" style="font-family: 'Lexend Deca';"> <strong> Hey 👋, I'm Sitraka</strong></p>)
 [//]: # (<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:EEEEEE,30:686D76,70:373A40&text=Hey,%20I'm%20Sitraka&fontColor=DFDFDF&reversal=false&textBg=false">)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:EEEEEE,30:686D76,70:373A40&text=Hey,%20I'm%20Sitraka&fontColor=FFFFFF&reversal=false&textBg=false&section=header">
 
 <br/>
 
@@ -68,9 +69,13 @@
 
 </div>
 
+<br/>
+
+# <p align="center" style="font-family: 'Lexend Deca';"> <strong>Check my stats</strong></p>
+
 <div align="center">
 
-![AHsytraka's Stats](https://github-readme-stats.vercel.app/api?username=AHsytraka&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[//]: # (![AHsytraka's Stats]&#40;https://github-readme-stats.vercel.app/api?username=AHsytraka&theme=dark&show_icons=true&hide_border=true&count_private=true&#41;)
 
 ![AHsytraka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AHsytraka&theme=dark&hide_border=true)
 
