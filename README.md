@@ -8,14 +8,14 @@
 
 # <p align="center" style="font-family: 'Lexend Deca';"> <strong>Reach me through</strong></p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-evenly;">
     <a href="https://www.linkedin.com/in/sitraka-andriantsiva-5155b3245"><img width="80" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin"/></a>
     <a href="mailto:ahsytraka@gmail.com"><img width="80" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="gmail"/></a>
 </div>
 
 # <p align="center" style="font-family: 'Lexend Deca' ;"><strong>My stack</strong></p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-evenly;">
 
 <img alt="CSS3" height="80" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
 <img alt="HTML5" height="80" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
